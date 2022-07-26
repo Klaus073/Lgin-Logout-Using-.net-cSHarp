@@ -1,0 +1,57 @@
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\login and Register System.exe.config
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\login and Register System.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\login and Register System.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login and Register System.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login and Register System.exe
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\obj\Debug\login and Register System.pdb
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\Faslam maX\Documents\visual studio 2015 projects\login and Register System\login and Register System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\bin\Debug\login and Register System.exe.config
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\bin\Debug\login and Register System.exe
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csprojAssemblyReference.cache
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.cache
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.CoreCompileInputs.cache
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.CopyComplete
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.exe
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.pdb
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\bin\Debug\login and Register System.pdb
+D:\Professional\YouTube\CodeCraks\Source Codes\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login_and_Register_System.dashboard.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\bin\Debug\login and Register System.exe.config
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\bin\Debug\login and Register System.exe
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\bin\Debug\login and Register System.pdb
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.AssemblyReference.cache
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.SuggestedBindingRedirects.cache
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login_and_Register_System.dashboard.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.cache
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.CoreCompileInputs.cache
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.csproj.CopyComplete
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.exe
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\login and Register System\login and Register System\obj\Debug\login and Register System.pdb
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\bin\Debug\login and Register System.exe.config
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\bin\Debug\login and Register System.exe
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\bin\Debug\login and Register System.pdb
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login and Register System.csproj.AssemblyReference.cache
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login and Register System.csproj.SuggestedBindingRedirects.cache
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login_and_Register_System.dashboard.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login_and_Register_System.frmRegister.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login_and_Register_System.Form2.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login_and_Register_System.frmLogin.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login_and_Register_System.Properties.Resources.resources
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login and Register System.csproj.GenerateResource.cache
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login and Register System.csproj.CoreCompileInputs.cache
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login and Register System.csproj.CopyComplete
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login and Register System.exe
+C:\Users\nauma\Desktop\Complete-login-and-registration-in-csharp\client\login and Register System\obj\Debug\login and Register System.pdb
